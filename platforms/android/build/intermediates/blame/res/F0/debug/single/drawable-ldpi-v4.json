@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/my_disks/Mobile/MyNgApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/media/my_disks/Mobile/MyNgApp/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/media/my_disks/Mobile/MyNgApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
+        "source": "/media/my_disks/Mobile/MyNgApp/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/media/my_disks/Mobile/MyNgApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo_login.png",
+        "source": "/media/my_disks/Mobile/MyNgApp/platforms/android/src/main/res/drawable-ldpi/logo_login.png"
+    },
+    {
+        "merged": "/media/my_disks/Mobile/MyNgApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/media/my_disks/Mobile/MyNgApp/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    }
+]
